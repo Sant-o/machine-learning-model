@@ -1,0 +1,1 @@
+print("hello buddies welcome to machine learning")
